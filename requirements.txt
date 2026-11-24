@@ -1,1 +1,5 @@
-required: numpy, pandas, matplotlib, jupyter, optional: astroquery.
+numpy
+pandas
+matplotlib
+jupyter
+astroquery
