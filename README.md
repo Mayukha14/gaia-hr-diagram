@@ -26,7 +26,7 @@ WHERE parallax > 10
 - `parallax > 10` keeps stars within 100 parsecs.
 - The other conditions keep only stars with precise distance and colour measurements.
 
-The query returns NUMBER_OF_STARS stars. The data is saved in `data/raw/gaia_dr3_100pc.csv`.
+The query returns 228623 stars. The data is saved in `data/raw/gaia_dr3_100pc.csv`.
 
 ## Method
 
